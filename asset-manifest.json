@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Fruits-React/static/css/main.69372896.chunk.css",
+    "main.js": "/Fruits-React/static/js/main.39d61d80.chunk.js",
+    "main.js.map": "/Fruits-React/static/js/main.39d61d80.chunk.js.map",
+    "runtime-main.js": "/Fruits-React/static/js/runtime-main.0312321b.js",
+    "runtime-main.js.map": "/Fruits-React/static/js/runtime-main.0312321b.js.map",
+    "static/js/2.0202c0ba.chunk.js": "/Fruits-React/static/js/2.0202c0ba.chunk.js",
+    "static/js/2.0202c0ba.chunk.js.map": "/Fruits-React/static/js/2.0202c0ba.chunk.js.map",
+    "index.html": "/Fruits-React/index.html",
+    "precache-manifest.83bc334e2801260ab8ff51f3c0e2659c.js": "/Fruits-React/precache-manifest.83bc334e2801260ab8ff51f3c0e2659c.js",
+    "service-worker.js": "/Fruits-React/service-worker.js",
+    "static/css/main.69372896.chunk.css.map": "/Fruits-React/static/css/main.69372896.chunk.css.map",
+    "static/js/2.0202c0ba.chunk.js.LICENSE.txt": "/Fruits-React/static/js/2.0202c0ba.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Fruits-React/static/media/fruits-img.c61bff1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0312321b.js",
+    "static/js/2.0202c0ba.chunk.js",
+    "static/css/main.69372896.chunk.css",
+    "static/js/main.39d61d80.chunk.js"
+  ]
+}
