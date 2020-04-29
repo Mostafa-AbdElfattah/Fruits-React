@@ -1,0 +1,8 @@
+.viewClass{
+    justify-content: center;
+  }
+  
+  .viewBtn{
+    min-width: 150px;
+    height: 40px;
+  }
